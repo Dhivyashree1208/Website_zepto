@@ -17,5 +17,5 @@ This project is a responsive e-commerce website inspired by Zepto. It features a
 
 ## Hosted Link
 
-You can view the live version of this project here: [Zepto Website](https://your-hosted-link.com)
+You can view the live version of this project here: [Zepto Website](https://website-zepto.vercel.app/)
 
